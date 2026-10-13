@@ -21,8 +21,12 @@ công suất và tốc độ của động cơ bánh xe.
 # Sơ đồ nối dây 
 <img width="637" height="355" alt="image" src="https://github.com/user-attachments/assets/0e09c90b-7d35-421c-9be9-217cb1d39eb2" />
 # Kết Quả 
+
 # Ảnh điều khiển trên web :
+
 <img width="708" height="342" alt="image" src="https://github.com/user-attachments/assets/a1d5998a-abba-4e32-85d5-48dad6839b17" />
+
+
 # Clip xe chạy theo hồng tâm :
 
 https://github.com/user-attachments/assets/65aa1ec2-1c0a-4d9a-a8fc-374ab35975b6
